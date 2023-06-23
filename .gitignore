@@ -7,6 +7,9 @@
 *.o
 *.so
 
+*.log
+*.ctxt
+
 # Packages #
 ############
 *.7z
@@ -15,7 +18,15 @@
 *.iso
 *.rar
 *.tar
+*.jar
+*.war
+*.nar
+*.ear
 *.zip
+*.tar.gz
+
+hs_err_pid*
+replay_pid*
 
 HELP.md
 !.mvn/wrapper/maven-wrapper.jar
