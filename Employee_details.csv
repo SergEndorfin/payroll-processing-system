@@ -1,0 +1,10 @@
+SequenceNo, EmpID, EmpFName, EmpLName, Designation, Event, Value, EventDate, Notes
+1, emp101, Bill, Gates, Software Engineer, ONBOARD, 1-9-2022, 10-10-2022, “Bill Gates is going to join DataOrb on 1st November as a SE.”
+2, emp102, Steve Jobs, Architect, ONBOARD, 1-10-2022, 10-10-2022, “Steve Jobs joined DataOrb on 1st October as an Architect.”
+3, emp103, Martin, Fowler, Software Engineer, ONBOARD, 15-10-2022, 10-10-2022, “Martin has joined DataOrb as a SE.”
+4, emp102, SALARY, 3000, 10-10-2022, “Oct Salary of Steve.”
+5, emp101, SALARY, 4000, 10-10-2020, “Salary of OCT 2020 month”
+sdc, dcdsc, 654654, dcs, 86+551, dscsd
+6, emp101, BONUS, 1000, 10-10-2022, “Performance bonus of year 2022”
+7, emp101, EXIT, 1-12-2022, 10-10-2022, “Leaving for further study”
+8, emp101, REIMBURSEMENT, 100, 10-10-2020, “Traveling expenses”
