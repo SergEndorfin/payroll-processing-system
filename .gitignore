@@ -45,7 +45,7 @@ Thumbs.db
 
 .project
 .classpath
-/.idea
+.idea
 *.iml
 atlassian-ide-plugin.xml
 /target/
