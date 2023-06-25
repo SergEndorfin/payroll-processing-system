@@ -16,7 +16,7 @@ where
 
 > **args[0]** is the name of the folder name (e.g. company name)  that will contain all the reports. 
 
-> **args[n]** are the files to be processed, separated by spaces.
+> **args[1] - args[n]** are the files to be processed, separated by spaces.
 
 ***
 The test files are included in the root directory.
